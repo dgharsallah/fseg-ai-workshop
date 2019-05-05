@@ -20,14 +20,14 @@ Except for `getting_started`, all the examples require the following dependencie
 If you are using `yarn`:
 
 ```sh
-cd mnist-core
+cd webcam-transfer-learning/
 yarn
 yarn watch
 ```
 
 If you are using `npm`:
 ```sh
-cd mnist-core
+cd webcam-transfer-learning/
 npm install
 npm run watch
 ```
