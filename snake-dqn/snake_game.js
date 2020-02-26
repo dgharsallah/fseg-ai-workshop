@@ -287,7 +287,7 @@ export class SnakeGame {
  *   `SnakeGame.getState()`, consisting of two keys: `s` for the snake and
  *   `f` for the fruit(s). Can also be an array of such state objects.
  * @param {number} h Height.
- * @param {number} w With.
+ * @param {number} w Width.
  * @return {tf.Tensor} A tensor of shape [numExamples, height, width, 2] and
  *   dtype 'float32'
  *   - The first channel uses 0-1-2 values to mark the snake.
